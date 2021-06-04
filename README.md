@@ -1,8 +1,8 @@
 # Test
-@chocrates-test-org
+@chocrates-test-org2
 
-## CHOCRATES-TEST-ORG
+## chocrates-test-org2
 
-### Chocrates-Test-org
+### chocrates-test-org2
 
-@chocrates-test-org@chocrates-test-org
+@chocrates-test-org2@chocrates-test-org2
